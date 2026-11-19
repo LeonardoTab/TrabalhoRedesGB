@@ -10,7 +10,11 @@ de linha ou modulação, canal ruidoso, recepção e métricas — com um plano
 experimental reproduzível que mede o compromisso entre taxa de erro de bits
 (BER) e eficiência espectral.
 
-> **Vídeo de demonstração:** 
+## Vídeo de demonstração
+
+Confira a demonstração do projeto no vídeo abaixo:
+
+[![Vídeo de demonstração](https://img.youtube.com/vi/bAgJbG-Hb80/0.jpg)](https://www.youtube.com/watch?v=bAgJbG-Hb80)
 
 ---
 
