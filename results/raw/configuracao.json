@@ -1,0 +1,52 @@
+{
+  "n_bits_por_execucao": 100000,
+  "snr_db_eb_n0": [
+    0,
+    2,
+    4,
+    6,
+    8,
+    10,
+    12,
+    14
+  ],
+  "seeds": [
+    100,
+    101,
+    102,
+    103,
+    104
+  ],
+  "modulacoes": [
+    "bpsk",
+    "qpsk",
+    "16qam"
+  ],
+  "codificacoes_de_linha": [
+    "ami",
+    "manchester"
+  ],
+  "canais": [
+    "awgn",
+    "rayleigh"
+  ],
+  "bits_por_ponto_da_curva": 500000,
+  "limite_95_sem_erros": 6e-06,
+  "variabilidade": "desvio padrao amostral (ddof=1) da BER entre as repeticoes",
+  "snr_tabela_compromisso_db": 8,
+  "constelacoes": {
+    "snr_db": 10,
+    "n_simbolos": 400,
+    "seed": 7
+  },
+  "exemplo_mensagem": {
+    "mensagem": "UNISINOS Redes de Computadores 2026",
+    "snr_db": [
+      4,
+      8,
+      14
+    ],
+    "seed": 1
+  },
+  "rayleigh": "plano, i.i.d. por simbolo, E[|h|^2]=1, CSI perfeito, equalizacao zero-forcing"
+}

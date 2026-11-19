@@ -1,0 +1,15 @@
+Mensagem enviada (280 bits): 'UNISINOS Redes de Computadores 2026'
+Modulacao QPSK, seed 1
+
+Eb/N0 =  4 dB  awgn        6 bits errados  recebida: 'UNISIN�S Rddes de Compuvadores(20b6'
+                            posicoes dos bits incorretos: [48, 87, 190, 244, 265, 267]
+Eb/N0 =  4 dB  rayleigh   27 bits errados  recebida: 'UN�ShNOC Rmdas0d�\x01C�M`v�aho`eb 3466'
+                            posicoes dos bits incorretos: [16, 17, 20, 34, 39, 59, 84, 101, 115, 128, 138, 143, 152, 162, 171, 182, 183, 184, 204, 205, 219, 222, 235, 239, 255, 261, 269]
+
+Eb/N0 =  8 dB  awgn        0 bits errados  recebida: 'UNISINOS Redes de Computadores 2026'
+Eb/N0 =  8 dB  rayleigh   13 bits errados  recebida: 'UNISHNOC Redes0d�\x00CoMpw�aho`ec 2026'
+                            posicoes dos bits incorretos: [39, 59, 115, 128, 138, 162, 182, 184, 204, 205, 219, 222, 235]
+
+Eb/N0 = 14 dB  awgn        0 bits errados  recebida: 'UNISINOS Redes de Computadores 2026'
+Eb/N0 = 14 dB  rayleigh    4 bits errados  recebida: 'UNISINOC Redes0de Computalopes 2026'
+                            posicoes dos bits incorretos: [59, 115, 204, 222]

@@ -1,0 +1,7 @@
+modulacao,canal,snr_db,ber_media,eficiencia_bits_s_hz
+bpsk,awgn,8,0.00018399999999999997,1
+bpsk,rayleigh,8,0.035658,1
+qpsk,awgn,8,0.000174,2
+qpsk,rayleigh,8,0.035429999999999996,2
+16qam,awgn,8,0.009068,4
+16qam,rayleigh,8,0.062514,4
