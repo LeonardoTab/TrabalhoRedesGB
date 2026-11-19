@@ -76,8 +76,8 @@ results/
 Requer Python 3.10 ou superior.
 
 ```bash
-git clone https://github.com/ArthurRambor/RedesTrabalhoGB.git
-cd RedesTrabalhoGB
+git clone https://github.com/LeonardoTab/TrabalhoRedesGB.git
+cd TrabalhoRedesGB
 python3 -m venv .venv && source .venv/bin/activate   # opcional
 pip install -r requirements.txt
 ```
